@@ -1,8 +1,9 @@
 package main
 
 import (
-    "fmt"
-    "github.com/hjdb88/go_ioc/v3/inject"
+	"fmt"
+
+	"github.com/hjdb88/go_ioc/v3/inject"
 )
 
 func main() {

@@ -1,7 +1,7 @@
 package inject
 
 import (
-    "reflect"
+	"reflect"
 )
 
 var BeanFactory *beanFactoryImpl
